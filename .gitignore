@@ -1,6 +1,5 @@
 env/
 .env
-.db
-files/
+.db 
 .cache/
 .streamlit/ 
