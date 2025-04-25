@@ -3,5 +3,4 @@ env/
 .db
 files/
 .cache/
-.streamlit/
-.devcontainer/devcontainer.json
+.streamlit/ 
