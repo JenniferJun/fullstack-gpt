@@ -13,10 +13,7 @@ Welcome to my FullstackGPT Portfolio!
             
 Here are the apps I made:
             
-- [O] [DocumentGPT(Assignment)](/DocumentGPT) 
+- [x] [DocumentGPT(Assignment)](/DocumentGPT) 
 - [x] [QuizGPT(Assignment)](/QuizGPT)
-- [x] [SiteGPT(Assignment)](/SiteGPT) 
-- [x] [Investor Assistant](/InvestorAssistantGPT)
-- [x] [Research Assistant(Assignment)](/ResearchAssistantGPT) 
 """
 )
