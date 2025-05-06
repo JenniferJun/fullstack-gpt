@@ -15,5 +15,6 @@ Here are the apps I made:
             
 - [x] [DocumentGPT(Assignment)](/DocumentGPT) 
 - [x] [QuizGPT(Assignment)](/QuizGPT)
+- [x] [SiteGPT(Assignment)](/SiteGPT) 
 """
 )
